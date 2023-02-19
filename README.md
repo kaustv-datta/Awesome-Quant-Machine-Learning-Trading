@@ -65,7 +65,7 @@ The selection of online courses for ML for trading is very poor in my opinion.
 * :star: Better System Trader EP028 - David Aronson shares research into indicators that identify Bull and Bear markets. [[Link]](https://www.youtube.com/watch?v=Q4rV0Y9NokI)
 * Better System Trader EP082 - Machine Learning With Kris Longmore [[Link]](https://www.youtube.com/watch?v=0syNgsd635M)
 * :star: Better System Trader EP064 - Cryptocurrencies and Machine Learning with Bert Mouler [[Link]](https://www.youtube.com/watch?v=YgRTd4nLJoU)
-* Better System Trader EP090 - This quants’ approach to designing algo strategies with Michael Halls-Moore [[Link]](https://chatwithtraders.com/ep-090-michael-halls-moore/)
+* Chat with Traders EP090 - This quants’ approach to designing algo strategies with Michael Halls-Moore [[Link]](https://chatwithtraders.com/ep-090-michael-halls-moore/)
 
 ## Papers
 * :star: James Cumming - An Investigation into the Use of Reinforcement Learning Techniques within the Algorithmic Trading Domain [[Link]](http://www.doc.ic.ac.uk/teaching/distinguished-projects/2015/j.cumming.pdf)
